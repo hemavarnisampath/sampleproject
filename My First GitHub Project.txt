@@ -1,4 +1,3 @@
 My First GitHub Project
 This is my sample text file.
-I am learning how to upload files to GitHub.
-This is my initial one.
+I am learning how to upload files to GitHub. I have updated this.
